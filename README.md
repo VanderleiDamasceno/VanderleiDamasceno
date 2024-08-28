@@ -1,6 +1,6 @@
 ## Hello, World! 
 
-My name is Vanderlei de Moura Damasceno. I am from Curvelo, MG. I have been working as business manager in a bank. I am an experienced translator specializing in English-Portuguese and Portuguese-English translations, with expertise in technical, legal, and literary areas.  I have also worked as newspaper editor, frelance translator, accounting auxiliar etc. 
+My name is Vanderlei de Moura Damasceno. I am from Curvelo, MG - Brazil. I have been working as business manager in a bank. I am an experienced translator specializing in English-Portuguese and Portuguese-English translations, with expertise in technical, legal, and literary areas.  I have also worked as newspaper editor, frelance translator, accounting auxiliar, weekly newspaper proofreader, bricklayer's assistant, etc. 
 I (am trying to) study Analysis and Systems Development at Mackenzie, in São Paulo, SP. Studying (in my time)  Java, MYSQL, R, Python, Power BI, Excell, and every stuff that can make an old man feel alive. 
 My other areas of studies were:
 
